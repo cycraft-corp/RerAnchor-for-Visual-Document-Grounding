@@ -1,0 +1,7 @@
+colpali_engine==0.3.12
+numpy==2.3.2
+Pillow==11.3.0
+scikit_learn==1.7.1
+torch==2.7.1
+tqdm==4.67.1
+transformers==4.53.2
